@@ -1,2 +1,2 @@
 # CustomMoodle
-This is a Moodele Platform for Aspec Programming subject of UDLSB.
+This is a Moodle Platform for Aspec Programming subject of UDLSB.
